@@ -9,19 +9,19 @@ const projects = [
   {
     title: 'SRI PARVATI SAMETHA SOMESHWARA SWAMI',
     description: 'This website provides information about a Shiva temple in India.',
-    imageUrl: '.\assets\Shivatemple.png',
+    imageUrl: '/assets/Shivatemple.png',
     link: 'https://sriparvatisamethas.wixstudio.com/thanelankashivalyam',
   },
   {
     title: 'BOOK MY TABLE',
     description: 'This project is a guide exploring dining experiences and restaurant culture.',
-    imageUrl: './assets/bookmytable.png',
+    imageUrl: 'assets/bookmytable.png',
     link: 'https://lakshmanaseshudako.wixstudio.io/bookmytable',
   },
   {
     title: 'MY PORTFOLIO',
     description: 'A personal portfolio website showcasing my skills, projects, and experience.',
-    imageUrl: './assets/portfilo.png',
+    imageUrl: '/assets/portfilo.png',
     link: '#',
   },
 ];
