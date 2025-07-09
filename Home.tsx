@@ -9,7 +9,7 @@ const projects = [
   {
     title: 'SRI PARVATI SAMETHA SOMESHWARA SWAMI',
     description: 'This website provides information about a Shiva temple in India.',
-    imageUrl: './assets/Shivatemple.png',
+    imageUrl: '.\assets\Shivatemple.png',
     link: 'https://sriparvatisamethas.wixstudio.com/thanelankashivalyam',
   },
   {
